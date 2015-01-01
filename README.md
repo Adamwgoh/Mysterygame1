@@ -8,6 +8,6 @@ The game narrative should change over time, with added gameplays over time as I 
 
 - Uses Dollar gesture recognizer to detect gestures. No custom gestures other than the ones supported by the algorithm.
 - Conversation engine is not working as it seemed yet, but able to have a branched storyline for now.
-- All arts are taken from the internet, I should take them down anytime, no Copyrights Infringements intended!
+- All arts,images and fonts are taken from the internet, I should take them down anytime, no Copyrights Infringements intended!
 
 They say posting your own code online is a brave and good thing to do. So here comes new habits for the new year!
