@@ -11,3 +11,5 @@ The game narrative should change over time, with added gameplays over time as I 
 - All arts,images and fonts are taken from the internet, I should take them down anytime, no Copyrights Infringements intended!
 
 They say posting your own code online is a brave and good thing to do. So here comes new habits for the new year!
+
+Update 2/1/15 : Happy New Year! I'm repositioning this code to be an Open-Source, RPG-like game engine that could be easily used to create different games. No friendly GUI Interface planned at this moment, just the game engine source code. Stay tuned for updates!
